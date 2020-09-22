@@ -1,0 +1,8 @@
+{new_vehicle: {vehicle_id: “ABC12345”, vehicle_colour: “red”, entry_point:10 }}
+{new_vehicle: {vehicle_id: “ABC12346”, vehicle_colour: “yellow”, entry_point: 20}}
+{new_vehicle: {vehicle_id: “ABC12347”, vehicle_colour: “blue”, entry_point: 0}}
+{new_vehicle: {vehicle_id: “ABC12348”, vehicle_colour: “red”: entry_point:20}}
+{vehicle(vehicle_colour: “red”) {vehicle_id}}
+{slot(slot_number: 9) {vehicle_id vehicle_colour}}
+{vehicle(vehicle_id: “ABC12345”) {slot_number}}
+{vehicle(vehicle_colour: “red”) {slot_number}}

@@ -1,0 +1,15 @@
+DBS
+
+Team in : Tech & Ops
+No Choice of programming languages (no fixed language requirements)
+
+Rationale behind the exercise:
+See how we code, think, how they can help us down the road.
+
+Quite open ended in terms of drilling down to the nitty gritty details.
+
+Can make assumptions, document it (readme)
+
+Not a hard exercise, exploration.
+
+Put it on git. Can push to dockerhub.

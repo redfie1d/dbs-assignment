@@ -1,0 +1,8 @@
+Car is allocated lot 9
+Car is allocated lot 19
+Invalid entry point
+Car is allocated lot 21
+{“data”: {“vehicle”:[ {"vehicle_id":"ABC12345"}, {"vehicle_id":"ABC12348"} ] }}
+{“data”: {"slot":{"vehicle_id":"ABC12345", "vehicle_colour":"red"} }}
+{“data”: {“vehicle”:{"slot_number":"9" } }}
+{“data”: {“vehicle”:[ {"slot_number":"9"}, {"slot_number":"21"} ] }}

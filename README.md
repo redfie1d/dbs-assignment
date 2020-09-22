@@ -1,3 +1,6 @@
+# DBS Technical Assignment
+Shell app to simulate parking system
+
 ## Assumptions:
 
 1. All inputs and outputs are in string format.
